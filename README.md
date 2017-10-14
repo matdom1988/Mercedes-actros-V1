@@ -1,3 +1,0 @@
-# Renault Magnum reworked
-
-
